@@ -1,3 +1,9 @@
+# Estudiantes:
+Apellidos 	Nombres	Carnet
+Trujillo Reyes	Kevin Alberto 	25-1418-2017
+Cruz Rosales	Erick Alberto	25-4822-2018
+
+
 # parcial2
 
 A new Flutter project.
